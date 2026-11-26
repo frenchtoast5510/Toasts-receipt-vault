@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Toasts Receipt Vault</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_add_entry">Add Entry</string>
+    <string name="action_back">Back</string>
+    <string name="demo_mode_title">Demo Mode</string>
+    <string name="demo_mode_subtitle">Sample receipts, warranties &amp; documents loaded locally.</string>
+    <string name="demo_mode_clear">Clear Demo</string>
+    <string name="demo_mode_reset">Reset Sample</string>
+    <string name="search_placeholder">Search store, item, document, or serial…</string>
+    <string name="empty_vault_title">Your vault is empty</string>
+    <string name="empty_vault_subtitle">Scan a receipt, attach a PDF document, or add an entry manually to track deadlines and serials offline.</string>
+    <string name="notification_channel_id">vault_deadlines</string>
+    <string name="notification_channel_name">Return &amp; Warranty Reminders</string>
+    <string name="notification_channel_description">Local alerts for upcoming store return deadlines and warranty expirations.</string>
+    <string name="share_item">Share</string>
+</resources>

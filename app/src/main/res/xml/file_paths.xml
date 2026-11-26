@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="claim_packets"
+        path="claim_packets/" />
+    <cache-path
+        name="camera_captures"
+        path="camera_captures/" />
+    <files-path
+        name="vault_images"
+        path="vault_images/" />
+    <files-path
+        name="vault_docs"
+        path="vault_docs/" />
+</paths>

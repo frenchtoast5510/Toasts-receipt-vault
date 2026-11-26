@@ -1,0 +1,6 @@
+{
+  "name": "Toasts Receipt Vault",
+  "description": "Offline receipt, warranty, and serial number vault with on-device OCR, local reminders, and encrypted backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
