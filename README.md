@@ -1,6 +1,6 @@
 # Toasts Receipt Vault
 
-An offline-first Android app for storing receipts, warranties, PDF documents, store return deadlines, and product serial numbers.
+An offline-first Android app for storing receipts, warranties, documents, store return deadlines, and product serial numbers.
 
 ## Overview
 
