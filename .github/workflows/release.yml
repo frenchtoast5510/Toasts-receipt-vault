@@ -45,3 +45,5 @@ jobs:
         with:
           files: app/build/outputs/apk/debug/*.apk
           generate_release_notes: true
+
+# Changing the name, ignore this comment
